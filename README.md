@@ -13,6 +13,9 @@ However as I am an electrical engineering student that will be the focus of my w
 and I may opt for a more practical solution when it comes to design implementation and choose premade components or reference existing libraries, 
 as the physical construction and the software are not the priorities of this project.
 
+# Next Step:
+This project is currently in the initial research phase and will remain so until I have finalized the puzzle room project.
+
 # What Will be Documented Here:
 In this repo, I will be:
 - documenting sources and tracking research;
