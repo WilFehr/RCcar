@@ -1,4 +1,12 @@
 # RCcar
+
+# Notes:
+
+the initial research document is in google docs and will be uploaded here as a PDF once finished, currently I've noticed that if I want more electrical freedom, I will need to be more involved on the mech side which is part of the delay on that front
+
+I am currently in a project based class, so a lot of my project work time is going into that, this will delay the updates here, feel free to check out my ECE299 repo for the updates on that project.
+
+
 # What Does Success Look Like?
 
 A remote controlled car
