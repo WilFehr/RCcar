@@ -4,8 +4,8 @@
 // See the following for generating UUIDs:
 // https://www.uuidgenerator.net/
 
-#define SERVICE_UUID "4fafc201-1fb5-459e-8fcc-c5c9c331914b"
-#define CHARACTERISTIC_UUID "beb5483e-36e1-4688-b7f5-ea07361b26a8"
+#define SERVICE_UUID "563fd77b-978c-452e-8b1a-f355f13b0d25"
+#define CHARACTERISTIC_UUID "563fd77b-0000-452e-8b1a-f355f13b0d25"
 
 class MyCallbacks: 
   public BLECharacteristicCallbacks {
@@ -28,7 +28,7 @@ class MyCallbacks:
 
 void setup() {
   Serial.begin(115200);
-  BLEDevice::init("MyESP32");
+  BLEDevice::init("ESP32com5");
   BLEServer *pServer = BLEDevice::createServer();
   BLEService *pService = pServer->createService(SERVICE_UUID);
   BLECharacteristic *pCharacteristic = pService->createCharacteristic( 
